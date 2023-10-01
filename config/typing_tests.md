@@ -1,7 +1,2 @@
 
-- abc
-- def
-- jkl
-- k
-
 
