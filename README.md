@@ -1,0 +1,7 @@
+- This is a keymap for my corne keyboard using the zmk firmware.
+- I primarily work on Linux machines.
+- I have configured it to work with Neovim and tmux, with tiling manager.
+- I also use Vimium plugin for Google Chrome and Firefox.
+- The configuration in the repo is working well for me.
+- Hopefully it can be a good starting point for you as well if you do similar stuff like me.
+- The main keymap file is [config/corne.keymap](config/corne.keymap).
